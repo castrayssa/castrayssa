@@ -9,10 +9,10 @@
 
 ## About me
 
-- ✨ I’m @castrayssa!
-- ⚡ She/her - 2007
-- 👀 I’m interested in programming, literature and art.
-- ✏️ Currently learning html and c#.
-- ☝️ Fun fact about me: I have a skeleton in my room.
+- ✨ @castrayssa
+- ⚡ she/her - 2007 - compsci
+- 👀 interested in programming, literature and art.
+- ✏️ currently learning html and c#.
+- 
 
 ## 🪐
