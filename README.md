@@ -10,7 +10,7 @@
 ## About me
 
 - ✨ I’m @castrayssa!
-- ⚡ My pronouns are she/her.
+- ⚡ She/her - 2007
 - 👀 I’m interested in programming, literature and art.
 - ✏️ Currently learning html and c#.
 - ☝️ Fun fact about me: I have a skeleton in my room.
