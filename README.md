@@ -11,7 +11,7 @@
 
 - ✨ I’m @castrayssa!
 - ⚡ My pronouns are she/her.
-- 👀 I’m interested in art, literature and chess.
+- 👀 I’m interested in programming, literature and art.
 - ✏️ Currently learning html and c#.
 - ☝️ Fun fact about me: I have a skeleton in my room.
 
