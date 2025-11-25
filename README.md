@@ -10,9 +10,8 @@
 ## About me
 
 - ✨ @castrayssa
-- ⚡ she/her - 2007 - compsci
-- 👀 interested in programming, literature and art.
-- ✏️ currently learning html and c#.
-- 
-
+- ⚡ compsci/is
+- 👀 interested in programming and art in general
+- ✏️ currently learning java
+  
 ## 🪐
