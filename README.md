@@ -10,7 +10,7 @@
 ## About me
 
 - ✨ @castrayssa
-- ⚡ compsci/is
+- ⚡ compsci
 - 👀 interested in programming and art in general
 - ✏️ currently learning java
   
