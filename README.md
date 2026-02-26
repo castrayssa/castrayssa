@@ -3,8 +3,8 @@
 <img src="https://github.com/castrayssa/castrayssa/pull/1#issue-2981058319" alt="castrayssa">
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/castrayssa/count.svg" />
+  ## 🌟 Views
+  ![Views](https://komarev.com/ghpvc/?username=castrayssa&color=080808&style=for-the-badge)
 </p>
 
 ## About me
@@ -15,3 +15,4 @@
 - ✏️ currently learning java
   
 ## 🪐
+
