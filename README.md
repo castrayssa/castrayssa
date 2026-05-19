@@ -6,9 +6,8 @@
 ## ⚡ About me
 
 - ✨ @castrayssa
-- 🌙 compsci
+- 🌙 compsci undergraduate
 - 👀 interested in programming and art in general
-- ✏️ currently learning java
 
 ## 🌟 Views
       
